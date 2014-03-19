@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
-#5) Solicite o preço de uma mercadoria e o percentual de desconto oferecido caso a mesma seja paga à vista.
-#Exiba o valor do desconto e o preço a pagar.
+# 5) Solicite o preço de uma mercadoria e o percentual de desconto oferecido caso a mesma seja paga à vista.
+# Exiba o valor do desconto e o preço a pagar.
 
 valor_mercadoria = float(input("Digite o valor da mercadoria: "))
 percentual_desconto = float(input("Digite o valor do percentual de desconto: "))
